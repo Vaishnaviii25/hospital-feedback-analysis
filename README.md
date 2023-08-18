@@ -1,4 +1,4 @@
-# twitter-mawkishness-analysis
+# hospital-feedback-analysis
 
 Sentiment analysis, also refers as opinion mining, is a sub machine learning task where we want to determine which is the general sentiment of a given document. 
 The goal is to ascertain the prevailing sentiment within given hospital feedback documents. Through the application of machine learning techniques and natural language processing, we can extract the subjective information from these documents and categorize them based on their polarity—whether they are positive, neutral, or negative. This analysis holds immense value as it enables us to gauge public opinion about hospital services, potentially influencing decisions such as service improvements or market trends. While sentiment analysis remains a complex challenge due to language intricacies (objectivity/subjectivity, negation, vocabulary, grammar, etc.), this complexity also makes it a captivating field of study.
