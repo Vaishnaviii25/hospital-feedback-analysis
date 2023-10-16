@@ -6,12 +6,12 @@ The goal is to ascertain the prevailing sentiment within given hospital feedback
 
 
 <img width="485" alt="Screenshot 2023-05-20 at 11 27 04 PM" src="https://github.com/yashshukla20/twitter-mawkishness-analysis/assets/127749722/803ac7ac-2666-473c-adc9-7b204f9e2fd7">
-
+<br>
 
 <img width="576" alt="Screenshot 2023-05-20 at 11 27 58 PM" src="https://github.com/yashshukla20/twitter-mawkishness-analysis/assets/127749722/6039e855-161f-49a6-8769-a699033b285e">
-
+<br>
 
 <img width="955" alt="Screenshot 2023-05-20 at 11 27 37 PM" src="https://github.com/yashshukla20/twitter-mawkishness-analysis/assets/127749722/ab9062f4-66dd-47db-9a2a-4eda965fb712">
-
+<br>
 
 <img width="558" alt="Screenshot 2023-05-20 at 11 28 12 PM" src="https://github.com/yashshukla20/twitter-mawkishness-analysis/assets/127749722/75f5239d-7a01-412b-80fe-cc888af463b6">
